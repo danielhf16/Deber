@@ -50,4 +50,4 @@ qqnorm(res1)
 qqline(res1,col="red")
 plot(res1,predicciones1)
 plot(utilidad1,ventas1)
-##############
+
